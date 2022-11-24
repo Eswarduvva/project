@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 Project Link - https://blue-smoke-03b080600.2.azurestaticapps.net/
-
+project demo video link -https://youtu.be/TP6P9iXlSEw
 ## Azure technologies used for Project
 
 - Static web apps
